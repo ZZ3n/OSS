@@ -2,7 +2,7 @@
 
 void input(int *p, int N);
 void output(int *p, int N);
-
+//1233333333333333333333333
 int main()
 {
 	int M, N, k;
